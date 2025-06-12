@@ -25,17 +25,8 @@ Um projeto de automação com Python que lê dados de uma planilha online (Googl
 
 ## 🛠️ Instalação
 
-1. Clone o repositório:
+   Clone o repositório:
 
 ```bash
 git clone https://github.com/kayks4ntos/Auto-Email.git
 cd Auto-Email
-
-
-
----
-
-### ✅ `requirements.txt`
-Também fora da pasta:
-
-
